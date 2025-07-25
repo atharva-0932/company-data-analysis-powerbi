@@ -60,10 +60,11 @@ It simulates a **real-world analytics scenario**, where the analyst works with r
 ## 📷 Screenshots
 
 ### 🔹 Dashboard Overview
-![Dashboard Overview](Screenshot%202025-07-25%20130104.png)
+![Dashboard Overview](dashboard-overview.png)
 
 ### 🔹 Department-wise Performance
-![Department Performance](Screenshot%202025-07-25%20130428.png)
+![Department Performance](department-performance.png)
+
 
 
 
