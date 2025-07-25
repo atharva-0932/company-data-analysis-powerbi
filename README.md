@@ -63,7 +63,7 @@ It simulates a **real-world analytics scenario**, where the analyst works with r
 ![Dashboard Overview](dashboard-overview.png)
 
 ### 🔹 Department-wise Performance
-![Department Performance](department-performance.png)
+![Department Performance](Customer.png)
 
 
 
