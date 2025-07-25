@@ -57,8 +57,14 @@ It simulates a **real-world analytics scenario**, where the analyst works with r
 3. Use slicers and visuals to explore the dashboard and uncover insights
 
 ---
-
 ## 📷 Screenshots
+
+### 🔹 Dashboard Overview
+![Dashboard Overview](Screenshot%202025-07-25%20130104.png)
+
+### 🔹 Department-wise Performance
+![Department Performance](Screenshot%202025-07-25%20130428.png)
+
 
 
 
